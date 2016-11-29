@@ -15,3 +15,5 @@ git commit -m "Message"
 to send the data somewhere save:
 
 git push
+
+to clone: git clone "url"
