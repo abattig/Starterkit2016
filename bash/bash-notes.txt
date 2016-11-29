@@ -1,3 +1,5 @@
 Dear github-diary,
 
 I learnt about bash today.
+
+Let's try to destroy this by all writing the same files at the same time.
