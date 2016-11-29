@@ -1,3 +1,7 @@
 print("Hello")
 
+<<<<<<< HEAD
 print("Viele Grüße")
+=======
+print("Nooooooo, please do not print!")
+>>>>>>> fd42e33270ea6f4f99a043f558c0615bf947f976
