@@ -1,3 +1,13 @@
 To make a git repository run:
 
-git init
+git init SOME_FOLDER
+
+blablabla
+
+to add a file to branch
+
+git add
+
+to commit 
+
+git commit -m "Message"
