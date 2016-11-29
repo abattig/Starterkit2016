@@ -11,3 +11,7 @@ git add
 to commit 
 
 git commit -m "Message"
+
+to send the data somewhere save:
+
+git push
