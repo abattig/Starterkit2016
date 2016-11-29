@@ -1,0 +1,3 @@
+Dear github-diary,
+
+I learnt about bash today.
